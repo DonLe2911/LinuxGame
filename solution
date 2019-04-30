@@ -1,0 +1,8 @@
+change user - su
+total memory - free
+number of files - find -iname 'kainos*.txt | wc-l'
+size - du
+ubuntu release - lsb_release -a
+vendor ID - cat /proc/cpuinfo
+unzip
+password is: 204130467GenuineIntel5618.04

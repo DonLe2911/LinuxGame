@@ -1,0 +1,10 @@
+-	Switch user to “kainos”, password is graduate
+-	Navigate to “Game” directory
+Find and unzip “win.zip” (Password will be required to unzip the folder, instructions below to find out the password) and open win.txt to stop the clock.
+The password is the following info, in order
+a)	total memory of the system (in k)
+b)	number of .txt files in “Game” directory (inc. sub directories) that contain the word “kainos”
+c)	the processor vendor ID of the machine
+d)	the size of “Kainos” folder (in k)
+e)	the ubuntu release number of the machine (eg.12.10)
+Terminal only. Typed commands only.
